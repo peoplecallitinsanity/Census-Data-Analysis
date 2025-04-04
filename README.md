@@ -29,7 +29,7 @@ This repository hosts a comprehensive analysis of census data using advanced dat
 
 #### SHAP Value Analysis
 
-- **Setup**: We initialized the SHAP explainer with the Random Forest model predictions and feature set, generating SHAP values for the test data.
+- **Setup**: I initialized the SHAP explainer with the Random Forest model predictions and feature set, generating SHAP values for the test data.
 - **Impactful Visualizations**:
   - **Bar Plot**: Showed the overall impact of each feature across the entire dataset.
   - **Waterfall Plot**: Detailed the contribution of each feature to specific predictions, highlighting how each feature pushes the model output from the base value.
